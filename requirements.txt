@@ -1,2 +1,2 @@
 telebot
-random= 1.0.2
+random ==1.0.2
