@@ -1,2 +1,2 @@
 telebot
-mkl_random ==1.0.2
+mkl_random
