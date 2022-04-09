@@ -3,7 +3,7 @@
 
 
 import telebot
-import random
+import numpy.random
 API_KEY = '5246276446:AAEXQSZG0364fksPyWC2PQ9_BFM5j5dC-X0'
 bot = telebot.TeleBot(API_KEY)
 
